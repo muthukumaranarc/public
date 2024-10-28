@@ -1,4 +1,4 @@
-body {
+body{
     font-family: Arial, sans-serif;
   }
   .calculator {
@@ -9,7 +9,7 @@ body {
     padding: 10px;
     border: 2px solid #ccc;
     border-radius: 10px;
-    background-color:rgb(255, 249, 249);
+    background-color:rgb(217, 247, 255);
   }
   input[type="text"], input[type="button"] {
     width: 100%;
@@ -24,7 +24,7 @@ body {
     text-align: right;
     margin-bottom: 30px;
     border:2px solid #ccc;
-    background-color:rgb(243, 234, 234);
+    background-color:rgb(181, 233, 233);
     border-radius: 10px;
   }
   .row {
@@ -34,5 +34,5 @@ body {
   .row > input {
     border:2px solid #ccc;
     border-radius: 10px;
-    background-color:rgb(250, 228, 228);
+    background-color:rgb(165, 217, 235);
   }
